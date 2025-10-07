@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;     /* Centra verticalmente */
+  color: white;       
+}
+
+canvas {
+  display: block;
+  width: 100vm;
+}
